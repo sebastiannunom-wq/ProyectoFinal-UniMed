@@ -1,0 +1,6 @@
+@UniMedAPI_HostAddress = http://localhost:5096
+
+GET {{UniMedAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
